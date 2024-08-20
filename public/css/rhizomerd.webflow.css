@@ -122,7 +122,7 @@ h1 {
   margin-left: auto;
   margin-right: auto;
   padding-top: 5px;
-  font-family: Gt pressura mono V, sans-serif;
+  font-family: Gt pressura mono, sans-serif;
   font-size: 12px;
   font-weight: 400;
   display: block;
@@ -144,7 +144,7 @@ h1 {
   max-width: none;
   padding-top: 12px;
   padding-left: 15px;
-  font-family: Gt pressura mono V, sans-serif;
+  font-family: Gt pressura mono, sans-serif;
   line-height: 170%;
   display: block;
 }
@@ -633,7 +633,7 @@ h1 {
   background-color: #333;
   border: 1px solid #fff;
   border-radius: 5px;
-  font-family: Gt pressura mono V, sans-serif;
+  font-family: Gt pressura mono, sans-serif;
   font-size: 17px;
   display: inline-block;
   position: relative;
@@ -1041,7 +1041,7 @@ h1 {
   margin-top: 20px;
   padding-top: 5px;
   padding-bottom: 5px;
-  font-family: Gt pressura mono V, sans-serif;
+  font-family: Gt pressura mono, sans-serif;
   transition: all .4s;
   display: inline-block;
   position: static;
@@ -1365,7 +1365,7 @@ h1 {
   margin: 50px 0 0;
   padding-left: 24px;
   padding-right: 24px;
-  font-family: Gt pressura mono V, sans-serif;
+  font-family: Gt pressura mono, sans-serif;
   font-size: 17px;
   display: block;
   position: relative;
@@ -1440,7 +1440,7 @@ h1 {
   margin-bottom: 0;
   margin-left: 0;
   margin-right: auto;
-  font-family: Gt pressura mono V, sans-serif;
+  font-family: Gt pressura mono, sans-serif;
   font-size: 64px;
   line-height: 64px;
   display: block;
@@ -1503,7 +1503,7 @@ h1 {
   text-transform: uppercase;
   border-radius: 5px;
   padding-top: 30px;
-  font-family: Gt pressura mono V, sans-serif;
+  font-family: Gt pressura mono, sans-serif;
   font-size: 12px;
   font-weight: 400;
 }
@@ -1532,7 +1532,7 @@ h1 {
   margin-top: 25px;
   margin-bottom: 20px;
   padding: 5px;
-  font-family: Gt pressura mono V, sans-serif;
+  font-family: Gt pressura mono, sans-serif;
   font-size: 12px;
   display: inline-block;
 }
@@ -1658,7 +1658,7 @@ h1 {
   text-align: center;
   letter-spacing: 2px;
   margin-bottom: 40px;
-  font-family: Gt pressura mono V, sans-serif;
+  font-family: Gt pressura mono, sans-serif;
   font-size: 16px;
 }
 
@@ -1931,7 +1931,7 @@ h1 {
   color: #fff;
   text-align: center;
   letter-spacing: 2px;
-  font-family: Gt pressura mono V, sans-serif;
+  font-family: Gt pressura mono, sans-serif;
   font-size: 12px;
 }
 
@@ -3740,7 +3740,7 @@ h1 {
   font-display: swap;
 }
 @font-face {
-  font-family: 'Gt pressura mono V';
+  font-family: 'Gt pressura mono';
   src: url('../fonts/GT-Pressura-Mono-Regular.ttf') format('truetype');
   font-weight: 400;
   font-style: normal;
